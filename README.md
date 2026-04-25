@@ -83,8 +83,9 @@ This project is licensed under the **MIT License**.
 
 ## 👨‍💻 Author
 
-- **Your Name**
-- GitHub: https://github.com/your-username
+- **Amit Che S**
+- GitHub: https://github.com/AmitCheS006
+  
 
 ---
 
